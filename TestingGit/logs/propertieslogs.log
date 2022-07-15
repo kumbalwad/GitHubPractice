@@ -1,0 +1,16 @@
+[INFO ] 2022-07-12 21:44:51.069 [main] log4j - This is first info log
+[WARN ] 2022-07-12 21:44:51.074 [main] log4j - This is warning log
+[ERROR] 2022-07-12 21:44:51.074 [main] log4j - This is error log
+[FATAL] 2022-07-12 21:44:51.074 [main] log4j - this is fatal log
+[INFO ] 2022-07-12 21:46:16.135 [main] log4j - This is first info log
+[WARN ] 2022-07-12 21:46:16.140 [main] log4j - This is warning log
+[ERROR] 2022-07-12 21:46:16.140 [main] log4j - This is error log
+[FATAL] 2022-07-12 21:46:16.140 [main] log4j - this is fatal log
+[INFO ] 2022-07-12 22:25:29.418 [main] log4j - This is info log
+[WARN ] 2022-07-12 22:25:29.422 [main] log4j - This is warn log
+[ERROR] 2022-07-12 22:25:29.422 [main] log4j - This is error log
+[FATAL] 2022-07-12 22:25:29.422 [main] log4j - this is fatal log
+[INFO ] 2022-07-12 22:27:28.491 [main] log4j - This is info log
+[WARN ] 2022-07-12 22:27:28.509 [main] log4j - This is warn log
+[ERROR] 2022-07-12 22:27:28.509 [main] log4j - This is error log
+[FATAL] 2022-07-12 22:27:28.510 [main] log4j - this is fatal log
