@@ -23,8 +23,8 @@ public class FrameworkBase {
 		driver.get(str);
 		driver.manage().window().maximize();
 	}
-
-	public FrameworkBase() {
+//
+	public FrameworkBase() {      
 
 		property = new Properties();
 		try {
